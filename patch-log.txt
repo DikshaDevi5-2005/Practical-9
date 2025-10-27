@@ -1,0 +1,12 @@
+Patch: Updated README for Practical 9
+Commit SHA: c5252a8
+
+Applied To:
+- Main (Upstream project)
+- Practical-9-VendorA
+
+Reverted On:
+- Practical-9-VendorB
+
+Reason:
+VendorB does not require this README update.
